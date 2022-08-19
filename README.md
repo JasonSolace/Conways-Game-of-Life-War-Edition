@@ -15,7 +15,7 @@ Here's an example:
 ![Example 1 Gif](https://user-images.githubusercontent.com/111163384/185544739-71635fb8-2a15-4050-a1c1-0260bc44c579.gif)
 
 As you can see, these two cell groups don't merge at all! So here are the rules of War Edition that I created:
-- Any dead cell can still spawn with three live neighbors, but "enemy" cells do not count.
+- Any dead cell can still spawn with two to three live neighbors, but "enemy" cells do not count. For example: 1 friendly and 1 red will not reproduce.
 - Any live cell with surrounded by more "enemies" than "allies" will die, regardless of friendly neighbors.
 
 Here are other fun gifs of the simulation!\
