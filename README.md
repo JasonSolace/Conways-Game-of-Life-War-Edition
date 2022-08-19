@@ -14,9 +14,9 @@ Here's an example:
 
 ![Example 1 Gif](https://user-images.githubusercontent.com/111163384/185544739-71635fb8-2a15-4050-a1c1-0260bc44c579.gif)
 
-As you can see, these two cell groups don't merge at all! So here are the rules of War Edition that I created:
+As you can see, the two cell groups don't merge at all! So here are the rules of War Edition that I created:
 - Any dead cell can still spawn with two to three live neighbors, but "enemy" cells do not count. For example: 1 friendly and 1 red will not reproduce.
-- Any live cell with surrounded by more "enemies" than "allies" will die, regardless of friendly neighbors.
+- Any live cell surrounded by more "enemies" than "allies" will die, regardless of friendly neighbors.
 
 Here are other fun gifs of the simulation!\
 ![Exampe 2](https://user-images.githubusercontent.com/111163384/185546711-aea5f25e-9d35-4527-a22e-dd4f6cc45bee.gif)
@@ -25,7 +25,7 @@ Here are other fun gifs of the simulation!\
 
 ![Example 4](https://user-images.githubusercontent.com/111163384/185547582-f9a7f172-b824-412a-913a-9703128fc79e.gif)
 
-It's a lot of fun to play around with it. Here's a short clip of the introduction of the program and as well as the layout of how it looks when using it.
+It's a lot of fun to play around with it. Here's a short clip of the introduction of the program as well as the UI that's implemented to show information.
 
 ![Intro Vid](https://user-images.githubusercontent.com/111163384/185553411-f76d7a0f-de97-483a-8daf-64212918bc54.gif)
 
