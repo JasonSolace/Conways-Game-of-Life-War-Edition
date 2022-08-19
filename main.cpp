@@ -6,7 +6,7 @@ Conways Game of Life with Raylib
 #include "Menu.h"
 
 int main() {
-	SetConfigFlags(FLAG_WINDOW_RESIZABLE); //We allow the user to resize. --Can maybe cause some bugs
+	SetConfigFlags(FLAG_WINDOW_RESIZABLE); //We allow the user to resize.
 	InitWindow(1450, 700, "Game of Life"); //Window size, title of program
 	SetWindowMinSize(1450, 700);
 	SetTargetFPS(FLAG_VSYNC_HINT); //VSYNC of individuals monitor
