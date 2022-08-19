@@ -1,5 +1,5 @@
 # Conways-Game-of-Life-War-Edition
-This is a fun little project I decided to work on to learn how to use Raylib's library. In this game(although it's more of a simulation than a game), you have an empty board where cells can spawn in as "reproduction" or die off as in "overpopulation.
+This is a fun little project I decided to work on to learn how to use Raylib's library. In this game(although it's more of a simulation than a game), you have an empty board where cells can spawn in via "reproduction" or die off as from "overpopulation.
 Here is the wikipedia link: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 \
 \
