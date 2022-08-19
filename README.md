@@ -8,7 +8,7 @@ The basic rules of Conways Game of Life are:
 2. Any dead cell with three live neighbours becomes a live cell.
 3. All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
-That's how the regular "game" works, and there are a ton of resources where you can see it in action if you're curious! In my twist, also known as "War Edition", adds in another seperate group of cells that interact with eachother.\
+That's how the regular "game" works, and there are a ton of resources where you can see it in action if you're curious! In my twist in which I call "War Edition", my version adds in another seperate group of cells that interact with eachother.\
 \
 Here's an example:
 
