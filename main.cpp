@@ -1,9 +1,9 @@
 /*
-
 Created by: Jason Armenta
 Conways Game of Life with Raylib
 
 */
+
 #include "Cell.h"
 #include "Menu.h"
 
